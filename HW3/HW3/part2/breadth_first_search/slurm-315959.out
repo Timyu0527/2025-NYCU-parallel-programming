@@ -1,0 +1,42 @@
+Max system threads = 4
+Running with 4 threads
+
+Graph: grid1000x1000.graph
+
+Top down bfs
+ref_time: 0.0215249s
+stu_time: 0.0186803s
+
+Bottom up bfs
+ref_time: 3.88803s
+stu_time: 1.86418s
+
+Hybrid bfs
+Hybrid bfs incorrect
+ref_time: 0.41729s
+
+Graph: soc-livejournal1_68m.graph
+
+Top down bfs
+ref_time: 0.217085s
+stu_time: 0.208885s
+
+Bottom up bfs
+ref_time: 0.207007s
+stu_time: 0.33069s
+
+Hybrid bfs
+Hybrid bfs incorrect
+ref_time: 0.125428s
+
+Graph: com-orkut_117m.graph
+
+Top down bfs
+ref_time: 0.270034s
+stu_time: 0.2135s
+
+Bottom up bfs
+ref_time: 0.229183s
+stu_time: 0.255748s
+
+Hybrid bfs

@@ -1,0 +1,5 @@
+*** Results disagree at 0 expected 0 found -1
+*** Results disagree at 0 expected 0 found -1
+*** Results disagree at 0 expected 0 found -1
+*** Results disagree at 0 expected 0 found -1
+[2025-10-26T10:12:34.958] error: *** JOB 315749 ON cmpt061 CANCELLED AT 2025-10-26T10:12:34 DUE to SIGNAL Terminated ***
